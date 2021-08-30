@@ -1,6 +1,6 @@
 # Apache_RD
 For using this program you have to have the "apache2" program-server. This program changes apache default and hosts files, owing to what you can go to site with other link. Each of that choosing you in script. 
 1.AUTHOR ... HAYK VARDAZARYAN ... contact: ... gmail:haykvardazaryan707@gmail.com 
-3.COMMANDS For using this program you have to have the "apache2" program-server. This program changes apache default and hosts files, owing to what you can go to site with other link. Each of that choosing you in script. 
+2.COMMANDS For using this program you have to have the "apache2" program-server. This program changes apache default and hosts files, owing to what you can go to site with other link. Each of that choosing you in script. 
 $ ./ redirecting.sh:then thanks to this command your programm will work
 
